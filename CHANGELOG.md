@@ -1,5 +1,8 @@
 # Changelog
-## [0.1.0] - YYYY-MM-DD
+
+## [0.3.0] - 2025-02-05
+### Added
+- Exercises for loops, coditional statements, and error handling
 
 ## [0.2.0] - 2025-01-26
 ###  Added
