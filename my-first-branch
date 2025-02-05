@@ -1,5 +1,2 @@
-milk = 2.50
-bread = 2.25
-eggs = 7.35
 
-print(f"{milk} + {bread} + {eggs}")
+
