@@ -23,7 +23,8 @@
 # total = milk + bread
 # print("The total cost is: $" + total
  # removed the quotes from the 3 you can't use strings in Math problems
-milk = 3
-bread = 2.5
-total = milk + bread
-print(f"The total cost is: $",total)
+# milk = 3
+# bread = 2.5
+# total = milk + bread
+# #used an f-string to print the total cost
+# print(f"The total cost is: $",total)
